@@ -1,0 +1,11 @@
+build/
+.idea/
+*.iml
+*.ipr
+*.iws
+*.log
+.gradle/
+classes/
+out/
+src/main/resources/static/css/
+src/main/resources/static/images/
